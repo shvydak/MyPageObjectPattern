@@ -1,0 +1,2 @@
+# MyPageObjectPattern
+My Base template
